@@ -1,0 +1,12 @@
+*{
+    background: rgb(0, 132, 255);
+}
+
+*{
+    color: blanchedalmond;
+    font-family: cursive;
+}
+
+meuHeader,article{
+    color: aliceblue;
+}
